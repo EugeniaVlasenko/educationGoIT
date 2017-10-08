@@ -1,0 +1,32 @@
+ {
+ 	"dateDelivery": "10/07/2017",
+    "fruits": [{
+			"type": "Banana",
+			"shelfLife": 10,
+			"date": "15/07/2017",
+			"price": 100,
+			"count": 40
+		},
+		{
+		    "type": "Apple",
+			"shelfLife": 5,
+            "date": "10/07/2017",
+			"price": 70,
+			"count": 60
+		},
+		{
+            "type": "Banana",
+        	"shelfLife": 8,
+        	"date": "01/07/2017",
+        	"price": 10,
+        	"count": 100
+        },
+        {
+            "type": "Banana",
+            "shelfLife": 10,
+            "date": "02/07/2017",
+            "price": 150,
+            "count": 80
+        }
+	]
+}

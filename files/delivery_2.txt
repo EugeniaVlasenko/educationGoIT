@@ -1,0 +1,25 @@
+ {
+	"dateDelivery": "19/07/2017",
+	"fruits": [{
+			"type": "Grapes",
+			"shelfLife": 10,
+			"date": "23/07/2017",
+			"price": 100,
+            "count": 400
+		},
+		{
+			"type": "Apple",
+			"shelfLife": 5,
+            "date": "10/07/2017",
+			"price": 70,
+            "count": 410
+		},
+		{
+            "type": "Apple",
+        	"shelfLife": 5,
+            "date": "17/07/2017",
+        	"price": 70,
+        	"count": 2
+        }
+	]
+}
