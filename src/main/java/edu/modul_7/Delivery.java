@@ -10,7 +10,6 @@ public class Delivery {
     public Delivery(List<Fruit> fruits, String dateDelivery) {
 
         this.fruits = fruits;
-
         this.dateDelivery = dateDelivery;
 
     }
